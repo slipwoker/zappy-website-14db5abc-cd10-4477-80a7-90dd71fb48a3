@@ -1,6 +1,4 @@
-# SJohnson — Generative Engine Optimization Map
-
-> An independent game developer creating original video games. This represents the creative and entrepreneurial spirit of solo or small-team game development, focusing on innovative gameplay, unique artistic visions, and personal creative projects in the gaming industry.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About SJohnson
-An independent game developer creating original video games. This represents the creative and entrepreneurial spirit of solo or small-team game development, focusing on innovative gameplay, unique artistic visions, and personal creative projects in the gaming industry.
-
-## Target Audience
-- Indie Game Enthusiasts
-
-## Industry
-gaming
-
+## About Business
 ---
 
 # Additional Resources
