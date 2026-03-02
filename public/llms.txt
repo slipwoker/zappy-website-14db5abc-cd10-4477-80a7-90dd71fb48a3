@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# SJohnson — Generative Engine Optimization Map
+
+> An independent game developer creating original video games. This represents the creative and entrepreneurial spirit of solo or small-team game development, focusing on innovative gameplay, unique artistic visions, and personal creative projects in the gaming industry.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://sjohnson.zappy5.app
 SJohnson is an indie game developer building original video games with innovative gameplay and unique artistic vision. Discover our creative projects today.
 
 ### Games
-https://example.com/games
+https://sjohnson.zappy5.app/games
 Dive into SJohnson&#39;s portfolio of indie games featuring groundbreaking mechanics and unforgettable experiences. Play games that challenge conventions now.
 
 ### About
-https://example.com/about
+https://sjohnson.zappy5.app/about
 Meet the indie game developer behind SJohnson. Learn about our journey, creative philosophy, and passion for crafting unique gaming experiences that inspire.
 
 ### Contact
-https://example.com/contact
+https://sjohnson.zappy5.app/contact
 Connect with SJohnson for collaborations, indie game publishing opportunities, or inquiries. Reach out and let&#39;s discuss your next gaming project today.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://sjohnson.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://sjohnson.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://sjohnson.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About SJohnson
+An independent game developer creating original video games. This represents the creative and entrepreneurial spirit of solo or small-team game development, focusing on innovative gameplay, unique artistic visions, and personal creative projects in the gaming industry.
+
+## Target Audience
+- Indie Game Enthusiasts
+
+## Industry
+gaming
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://sjohnson.zappy5.app/sitemap.xml
+- **Robots.txt**: https://sjohnson.zappy5.app/robots.txt
